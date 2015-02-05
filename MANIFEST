@@ -1,0 +1,10 @@
+MANIFEST
+Makefile.PL
+Manager.pm
+bin/dbmtree
+samples/zip.yaml
+samples/sqlite.yaml
+README
+Changelog
+META.yml                                 Module meta-data (added by MakeMaker)
+META.json                                 Module meta-data (added by MakeMaker)
