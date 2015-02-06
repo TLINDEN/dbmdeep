@@ -1,7 +1,7 @@
 MANIFEST
 Makefile.PL
 Manager.pm
-bin/dbmtree
+bin/dbmdeep
 samples/zip.yaml
 samples/sqlite.yaml
 README
